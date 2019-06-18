@@ -2,7 +2,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-/* Containers */
+/* Containers - to create a scroll flexible background*/
 
 .container-wrapper--red {
     background-color: #f05f40;
@@ -13,8 +13,6 @@ body {
     background-color: #777;
     color: white;
 }
-
-.alert-container {}
 
 .callout-container {
     height: 100vh;
